@@ -1,0 +1,2 @@
+question,comparaison,n_observations,n_bootstrap,taille_bloc,gain_mae_mw,ic95_inf_mw,ic95_sup_mw,gain_mase,ic95_inf_mase,ic95_sup_mase,significatif_5pct
+Q9,TTM zero-shot vs fine-tuné,7561,2000,24,48.696655,18.004913091659546,80.96666030883786,0.009746754700066185,0.0036037274082793094,0.016205675163573113,True

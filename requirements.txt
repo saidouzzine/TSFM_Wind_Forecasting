@@ -1,0 +1,22 @@
+# Python 3.11.9 — dépendances directes du projet TSFM Wind Forecasting
+# Versions extraites de l’environnement ayant exécuté les notebooks.
+# Attention : torch==2.15.0+cpu nécessite une vérification de disponibilité
+# sur l’index de paquets utilisé ; installation vierge non validée.
+accelerate==1.15.0
+chronos-forecasting==2.3.2
+datasets==3.6.0
+granite-tsfm==0.2.28
+huggingface_hub==0.36.2
+ipykernel==7.3.0
+joblib==1.6.0
+jupyter==1.1.1
+matplotlib==3.11.2
+nbformat==5.11.1
+numpy==2.4.6
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.17.1
+seaborn==0.13.2
+torch==2.15.0+cpu
+tqdm==4.70.1
+transformers==4.49.0

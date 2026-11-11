@@ -1,0 +1,2 @@
+fraction,fraction_pct,n_train_windows,n_test,best_epoch,mae,mase
+0.2,20,5425,7561,1,956.9779771659255,0.19154155009435703
